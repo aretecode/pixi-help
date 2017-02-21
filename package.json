@@ -1,0 +1,12 @@
+{
+  "name": "pixi-help",
+  "scripts": {
+    "pixi": "webpack"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "pixi.js": "^4.3.5",
+    "webpack": "2.2.1"
+  }
+}
